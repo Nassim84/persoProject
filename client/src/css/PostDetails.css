@@ -1,0 +1,22 @@
+/* PostDetails.css */
+
+.post-details {
+	margin: 2rem;
+	padding: 2rem;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-details h2 {
+	margin-bottom: 1rem;
+}
+
+.post-details p {
+	margin-bottom: 0.5rem;
+}
+
+.post-details .username {
+	font-weight: bold;
+	color: #6c757d;
+}
